@@ -1,0 +1,4 @@
+server:
+  port: 7095
+myapplication:
+  mesaj: "Hello World - Config Client"
